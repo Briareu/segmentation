@@ -13,6 +13,7 @@
 * dataset2
     * jpg
     * png
+    * train.txt
 * img
 * img_out
 * logs
