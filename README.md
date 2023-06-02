@@ -17,6 +17,7 @@
 * img
 * img_out
 * logs
+* models
 * nets
     * Xception.py
     * deeplab.py
